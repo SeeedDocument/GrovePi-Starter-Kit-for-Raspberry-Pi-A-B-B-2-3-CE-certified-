@@ -176,10 +176,7 @@ Grove - RGB LCD display 将开始显示来自 Grove - Temp&Humi Sensor 的实时
 -   **[原理图 PDF]** [GrovePi_Plus V3.0 schematics pdf file](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/GrovePi%2B%20v3.0%20Sch.pdf)
 -   **[PCB图 PDF]** [GrovePi_Plus V3.0 PCB pdf file](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/GrovePi%2B%20v3.0%20PCB.pdf)
 -   **[其他资源]** [Setting_Up_Software_for_GrovePi](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/Setting_Up_Software_for_GrovePi.pdf)
--   []()
--   []()
--   []()
--   []()
+-   **[其他资源]** [GrovePi+ Github](https://github.com/DexterInd/GrovePi.git)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Raspberry_Pi_Motor_Driver_Board_v1.0 -->
