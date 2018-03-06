@@ -8,7 +8,7 @@ wikiurl: http://seeed.wiki/Raspberry_Pi_Motor_Driver_Board_v1_0
 sku: 110060161
 ---
 
-![](图一)
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/1.jpg)
 
 这款套件包含了 12 个精心挑选的 Grove 模块，10 根连线，以及一块专门为树莓派设计的 Grove 扩展板 -- GrovePi+。仅需将 GrovePi+ 插接在树莓派上，再把传感器连接到 GrovePi+ 上，就可以在树莓派这个强大的平台上开始玩起硬件并搭建原型啦 !
 
@@ -48,9 +48,9 @@ GrovePi+ 与 Raspberry Pi A+,B,B+/2,3 兼容
 
 首先将 GrovePi+ 安装在 Raspberry Pi 上。GrovePi+ 堆叠在 Raspberry Pi 的顶部，如下图所示。
 
-![](图2)
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/2.jpg)
 
-![](图3)
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/3.JPG)
 
 
 堆叠 GrovePi+ 时，确保引脚对齐。
@@ -126,7 +126,7 @@ git clone https://github.com/DexterInd/GrovePi.git
 
 这是一个简单的示例，用于演示如何在您的项目中使用 GrovePi+ 的多个 Grove 传感器。
 
-![](图4)
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/4.jpg)
 家庭气象站
 
 ####  器材准备
@@ -137,7 +137,8 @@ git clone https://github.com/DexterInd/GrovePi.git
 4.  Grove - RGB LCD display
 5.  Grove Connection wires
 6.  SD card and WiFi module
-![](图5)
+
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/5.jpg)
 
 ####  硬件连接
 
@@ -156,10 +157,12 @@ cd /home/pi/Desktop/GrovePi/Projects/Home_Weather_Display
 ```
 sudo python Home_Weather_Display.py
 ```
-Grove - RGB LCD display 将开始显示来自 Grove - Temp&Humi Sensor 的实时温度数据和湿度数据。
-![](图6)
-![](图7)
+
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/6.jpg)
 来自 Raspberry Pi 的温湿度信息。
+
+![](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/img/7.jpg)
+Grove - RGB LCD display 将开始显示来自 Grove - Temp&Humi Sensor 的实时温度数据和湿度数据。
 
 #### 源码
 
@@ -169,10 +172,10 @@ Grove - RGB LCD display 将开始显示来自 Grove - Temp&Humi Sensor 的实时
 
 ## 资源下载
 ---------
--   **[Eagle 文件]** [GrovePi_Plus V3.0 eagle file](https://github.com/SeeedDocument/GrovePi_Plus/raw/master/res/GrovePi%2BEagle%20FIle.zip)
--   **[原理图 PDF]** [GrovePi_Plus V3.0 schematics pdf file](https://github.com/SeeedDocument/GrovePi_Plus/raw/master/res/GrovePi%2B%20v3.0%20Sch.pdf)
--   **[PCB图 PDF]** [GrovePi_Plus V3.0 PCB pdf file](https://github.com/SeeedDocument/GrovePi_Plus/raw/master/res/GrovePi%2B%20v3.0%20PCB.pdf)
--   **[其他资源]** [Setting_Up_Software_for_GrovePi](https://github.com/SeeedDocument/GrovePi_Plus/raw/master/res/Setting_Up_Software_for_GrovePi.pdf)
+-   **[Eagle 文件]** [GrovePi_Plus V3.0 eagle file](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/GrovePi%2BEagle%20FIle.zip)
+-   **[原理图 PDF]** [GrovePi_Plus V3.0 schematics pdf file](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/GrovePi%2B%20v3.0%20Sch.pdf)
+-   **[PCB图 PDF]** [GrovePi_Plus V3.0 PCB pdf file](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/GrovePi%2B%20v3.0%20PCB.pdf)
+-   **[其他资源]** [Setting_Up_Software_for_GrovePi](https://github.com/SeeedDocument/GrovePi-Starter-Kit-for-Raspberry-Pi-A-B-B-2-3-CE-certified-/raw/master/res/Setting_Up_Software_for_GrovePi.pdf)
 -   []()
 -   []()
 -   []()
